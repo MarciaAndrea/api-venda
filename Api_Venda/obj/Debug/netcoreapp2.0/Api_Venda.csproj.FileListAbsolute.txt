@@ -9,3 +9,14 @@ C:\Users\Marcia Andrea\source\repos\Api_Venda\Api_Venda\obj\Debug\netcoreapp2.0\
 C:\Users\Marcia Andrea\source\repos\Api_Venda\Api_Venda\obj\Debug\netcoreapp2.0\Api_Venda.AssemblyInfo.cs
 C:\Users\Marcia Andrea\source\repos\Api_Venda\Api_Venda\obj\Debug\netcoreapp2.0\Api_Venda.dll
 C:\Users\Marcia Andrea\source\repos\Api_Venda\Api_Venda\obj\Debug\netcoreapp2.0\Api_Venda.pdb
+D:\Git\PortableGit-2.15.1.2-64-bit.7z\api-venda\Api_Venda\bin\Debug\netcoreapp2.0\Api_Venda.deps.json
+D:\Git\PortableGit-2.15.1.2-64-bit.7z\api-venda\Api_Venda\bin\Debug\netcoreapp2.0\Api_Venda.runtimeconfig.json
+D:\Git\PortableGit-2.15.1.2-64-bit.7z\api-venda\Api_Venda\bin\Debug\netcoreapp2.0\Api_Venda.runtimeconfig.dev.json
+D:\Git\PortableGit-2.15.1.2-64-bit.7z\api-venda\Api_Venda\bin\Debug\netcoreapp2.0\Api_Venda.dll
+D:\Git\PortableGit-2.15.1.2-64-bit.7z\api-venda\Api_Venda\bin\Debug\netcoreapp2.0\Api_Venda.pdb
+D:\Git\PortableGit-2.15.1.2-64-bit.7z\api-venda\Api_Venda\obj\Debug\netcoreapp2.0\Api_Venda.csprojResolveAssemblyReference.cache
+D:\Git\PortableGit-2.15.1.2-64-bit.7z\api-venda\Api_Venda\obj\Debug\netcoreapp2.0\Api_Venda.csproj.CoreCompileInputs.cache
+D:\Git\PortableGit-2.15.1.2-64-bit.7z\api-venda\Api_Venda\obj\Debug\netcoreapp2.0\Api_Venda.AssemblyInfoInputs.cache
+D:\Git\PortableGit-2.15.1.2-64-bit.7z\api-venda\Api_Venda\obj\Debug\netcoreapp2.0\Api_Venda.AssemblyInfo.cs
+D:\Git\PortableGit-2.15.1.2-64-bit.7z\api-venda\Api_Venda\obj\Debug\netcoreapp2.0\Api_Venda.dll
+D:\Git\PortableGit-2.15.1.2-64-bit.7z\api-venda\Api_Venda\obj\Debug\netcoreapp2.0\Api_Venda.pdb
