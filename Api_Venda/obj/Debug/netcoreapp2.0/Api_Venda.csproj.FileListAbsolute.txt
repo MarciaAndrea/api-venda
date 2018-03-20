@@ -1,0 +1,11 @@
+C:\Users\Marcia Andrea\source\repos\Api_Venda\Api_Venda\bin\Debug\netcoreapp2.0\Api_Venda.deps.json
+C:\Users\Marcia Andrea\source\repos\Api_Venda\Api_Venda\bin\Debug\netcoreapp2.0\Api_Venda.runtimeconfig.json
+C:\Users\Marcia Andrea\source\repos\Api_Venda\Api_Venda\bin\Debug\netcoreapp2.0\Api_Venda.runtimeconfig.dev.json
+C:\Users\Marcia Andrea\source\repos\Api_Venda\Api_Venda\bin\Debug\netcoreapp2.0\Api_Venda.dll
+C:\Users\Marcia Andrea\source\repos\Api_Venda\Api_Venda\bin\Debug\netcoreapp2.0\Api_Venda.pdb
+C:\Users\Marcia Andrea\source\repos\Api_Venda\Api_Venda\obj\Debug\netcoreapp2.0\Api_Venda.csprojResolveAssemblyReference.cache
+C:\Users\Marcia Andrea\source\repos\Api_Venda\Api_Venda\obj\Debug\netcoreapp2.0\Api_Venda.csproj.CoreCompileInputs.cache
+C:\Users\Marcia Andrea\source\repos\Api_Venda\Api_Venda\obj\Debug\netcoreapp2.0\Api_Venda.AssemblyInfoInputs.cache
+C:\Users\Marcia Andrea\source\repos\Api_Venda\Api_Venda\obj\Debug\netcoreapp2.0\Api_Venda.AssemblyInfo.cs
+C:\Users\Marcia Andrea\source\repos\Api_Venda\Api_Venda\obj\Debug\netcoreapp2.0\Api_Venda.dll
+C:\Users\Marcia Andrea\source\repos\Api_Venda\Api_Venda\obj\Debug\netcoreapp2.0\Api_Venda.pdb
