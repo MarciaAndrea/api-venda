@@ -12543,11 +12543,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Git\\PortableGit-2.15.1.2-64-bit.7z\\api_web\\Api_Venda\\Api_Venda.csproj",
+      "projectUniqueName": "D:\\Git\\PortableGit-2.15.1.2-64-bit.7z\\api-venda\\Api_Venda\\Api_Venda.csproj",
       "projectName": "Api_Venda",
-      "projectPath": "D:\\Git\\PortableGit-2.15.1.2-64-bit.7z\\api_web\\Api_Venda\\Api_Venda.csproj",
+      "projectPath": "D:\\Git\\PortableGit-2.15.1.2-64-bit.7z\\api-venda\\Api_Venda\\Api_Venda.csproj",
       "packagesPath": "C:\\Users\\Marcia Andrea\\.nuget\\packages\\",
-      "outputPath": "D:\\Git\\PortableGit-2.15.1.2-64-bit.7z\\api_web\\Api_Venda\\obj\\",
+      "outputPath": "D:\\Git\\PortableGit-2.15.1.2-64-bit.7z\\api-venda\\Api_Venda\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
