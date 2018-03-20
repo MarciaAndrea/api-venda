@@ -9,7 +9,7 @@ namespace Api_Venda.Models
     {
         public Cliente()
         {
-            Clientes = new Collection<Cliente>();
+            Pedidos = new List<Pedido>();
         }
 
         public int Id { get; set; }
@@ -17,7 +17,6 @@ namespace Api_Venda.Models
         public string Endereco { get; set; }
         public string Email { get; set; }
 
-        public ICollection<Cliente> Clientes { get; set; }
-
+        public virtual ICollection<Pedido> Pedidos { get; set; }
     }
 }

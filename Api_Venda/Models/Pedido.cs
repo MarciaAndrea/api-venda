@@ -8,7 +8,7 @@ namespace Api_Venda.Models
         public Pedido()
         {
             this.Data = DateTime.Now;
-            Pedidos = new List<Pedido>();
+            DetalhesPedidos = new List<DetalhesPed>();
         }
         public long Id { get; set; }
         public DateTime Data { get; set; }
@@ -16,7 +16,7 @@ namespace Api_Venda.Models
 
         public virtual Cliente Cli { get; set; }
 
-        public ICollection<Pedido> Pedidos { get; set; }
+        public virtual ICollection<DetalhesPed> DetalhesPedidos { get; set; }
 
     }
 }

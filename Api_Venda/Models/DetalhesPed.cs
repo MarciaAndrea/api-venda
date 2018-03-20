@@ -4,10 +4,6 @@ namespace Api_Venda.Models
 {
     public class DetalhesPed
     {
-        public DetalhesPed()
-        {
-            DetalhesPeds = new List<DetalhesPed>();
-        }
 
         public long Id { get; set; }
         public int IdProd { get; set; }
@@ -16,8 +12,6 @@ namespace Api_Venda.Models
         public int Qtde { get; set; }
 
         public virtual Produto Prod { get; set; }
-        public virtual Produto Ped { get; set; }
-
-        public ICollection<DetalhesPed> DetalhesPeds { get; set; }
+        public virtual Pedido Ped { get; set; }
     }
 }

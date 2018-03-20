@@ -7,7 +7,7 @@ namespace Api_Venda.Models
     {
         public Produto()
         {
-            Produtos = new List<Produto>();
+            DetalhesPedidos = new List<DetalhesPed>();
         }
 
         public long Id { get; set; }
@@ -15,6 +15,6 @@ namespace Api_Venda.Models
         public decimal Preco { get; set; }
         public int Estoque { get; set; }
 
-        public ICollection<Produto> Produtos { get; set; }
+        public virtual ICollection<DetalhesPed> DetalhesPedidos { get; set; }
     }
 }
